@@ -6,8 +6,7 @@ return [
     'db' => [
         'adapters' => [
             'dummy' => [],
-            'mysqlAdapter' => [],
-            'adapter3' => [],
+            'buqlogAdapter' => [],
         ],
     ],
 ];
